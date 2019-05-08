@@ -15,3 +15,6 @@ so: Rf/R2 = 0.5
 therfore: Rf = 1k & R2 = 2k
 
 Non-inverting op-amp circuit
+
+![alt text](https://github.com/joelgreenwood/op_amps/blob/master/opamp15.gif)
+
