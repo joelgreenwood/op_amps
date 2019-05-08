@@ -22,3 +22,6 @@ actual board:
 
 ![alt text](https://github.com/joelgreenwood/op_amps/blob/master/board.png)
 
+pinout:
+
+![alt text](https://github.com/joelgreenwood/op_amps/blob/master/TLV2462CP.PNG)
