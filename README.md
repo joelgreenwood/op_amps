@@ -18,3 +18,7 @@ Non-inverting op-amp circuit
 
 ![alt text](https://github.com/joelgreenwood/op_amps/blob/master/opamp15.gif)
 
+actual board:
+
+![alt text](https://github.com/joelgreenwood/op_amps/blob/master/board.png)
+
